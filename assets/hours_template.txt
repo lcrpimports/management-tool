@@ -6,7 +6,14 @@ Good evening!
 
 These are the hours of the past week by order, from highest to lowest. We appreciate the activity and the commitment from all of you, and these are the statistics from the previous week.
 
-[DUMP]
+**Sales**
+[SALES]
+
+**Supervisors**
+[SUPERVISORS]
+
+**Executives**
+[EXECUTIVES]
 
 **If you have any questions, don't hesitate to ask a ** <@&848655831578968074>
 
